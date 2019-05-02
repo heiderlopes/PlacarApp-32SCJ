@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_club">CLUBES</string>
+    <string name="label_home">Time da Casa</string>
+    <string name="hint_home">Digite o nome do time da casa</string>
+    <string name="label_away">Time Visitante</string>
+    <string name="hint_away">Digite o nome do time visitante</string>
+    <string name="label_start_game">Começar a Partida</string>
+    <string name="label_development_by">Desenvolvido por SCJ Corp</string>
+</resources>
