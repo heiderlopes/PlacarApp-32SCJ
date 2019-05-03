@@ -76,4 +76,24 @@
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/btGolCasa"
         app:layout_constraintTop_toTopOf="@+id/btGolCasa" />
+
+    <Button
+        android:id="@+id/btRestart"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Restart"
+        app:layout_constraintEnd_toEndOf="@+id/btGolVisitante"
+        app:layout_constraintStart_toStartOf="@+id/btGolCasa"
+        app:layout_constraintTop_toBottomOf="@+id/btGolCasa" />
+
+    <Button
+        android:id="@+id/btShare"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Compartilhar no WhatsApp"
+        app:layout_constraintEnd_toEndOf="@+id/btRestart"
+        app:layout_constraintStart_toStartOf="@+id/btRestart"
+        app:layout_constraintTop_toBottomOf="@+id/btRestart" />
 </android.support.constraint.ConstraintLayout>

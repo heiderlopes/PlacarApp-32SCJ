@@ -7,4 +7,6 @@
     <string name="hint_away">Digite o nome do time visitante</string>
     <string name="label_start_game">Começar a Partida</string>
     <string name="label_development_by">Desenvolvido por SCJ Corp</string>
+
+    <string name="message_to_share">O jogo entre %1$s e %2$s foi %3$d a %4$d</string>
 </resources>

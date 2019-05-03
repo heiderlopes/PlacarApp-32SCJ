@@ -7,4 +7,6 @@
     <string name="hint_away">Type away name</string>
     <string name="label_start_game">Start Game</string>
     <string name="label_development_by">Development by SCJ Corp</string>
+
+    <string name="message_to_share">The game %2$s and %1$s end %3$d a %4$d</string>
 </resources>
